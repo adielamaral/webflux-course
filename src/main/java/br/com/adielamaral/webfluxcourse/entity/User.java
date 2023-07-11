@@ -18,5 +18,4 @@ public class User {
     @Indexed(unique = true)
     private String email;
     private String password;
-
 }
